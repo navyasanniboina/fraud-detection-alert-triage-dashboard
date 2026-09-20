@@ -1,0 +1,7 @@
+{
+    "model_name": "XGBoost (Cost-Sensitive)",
+    "default_threshold": 0.5,
+    "optimal_f1_threshold": 0.02,
+    "high_recall_threshold": 0.02,
+    "min_cost_threshold": 0.02
+}
